@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "9a2aa2ceed47b81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f00fa3f70fcb54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9463e189c4d7bf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "发包流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "639ee3cee7ca100e",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e9118cfefe318f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181abeb9cd9fddbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca74a3d10d57ef8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e24cfca1d48661df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4455ef2001af288c",
+    "type": "split",
+    "children": [
+      {
+        "id": "03cb4e32c3e7356d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2df5f721fd7e0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "发包流程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6eca3ce868fd7bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "发包流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e131e06244aed42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bb6bf9254fa178a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "发包流程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9463e189c4d7bf69",
+  "lastOpenFiles": [
+    "zustand.md",
+    "发包流程.md",
+    "345.md",
+    "vscode插件开发步骤.md",
+    "React工具.md",
+    "README.md",
+    "未命名"
+  ]
+}
